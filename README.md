@@ -3,7 +3,7 @@
 
 Projeto construido para praticar lógica de programação com JavaScript 
 
-[🔗 Clique aqui para acessar](https://henriqueapereira.github.io/jogo-pong/)
+[🔗 Clique aqui para acessar](https://henriqueapereira.github.io/jogo-Pong/)
 
 ## 🛠️ Tecnologias
 
